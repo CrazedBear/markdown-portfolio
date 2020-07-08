@@ -1,1 +1,1 @@
-https://github.com/CrazedBear
+[GitHub](https://github.com/CrazedBear)
